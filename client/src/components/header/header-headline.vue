@@ -1,6 +1,6 @@
 <template>
   <div class="cHeadline">
-    <img class="cHeadlineImg" src="../assets/headline.png" height="61"/>
+    <img class="cHeadlineImg" src="../../assets/headline.png" height="61"/>
   </div>
 </template>
 

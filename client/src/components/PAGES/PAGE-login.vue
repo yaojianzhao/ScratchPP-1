@@ -19,9 +19,9 @@
 <script>
 
 
-  import Header from '../components/header.vue';
-  import LoginFrame from '../components/loginFrame.vue';
-  import LoginLink from '../components/loginLink.vue';
+  import Header from '../header/header.vue';
+  import LoginFrame from '../loginFrame/loginFrame.vue';
+  import LoginLink from '../loginLink/loginLink.vue';
 
   export default{
 

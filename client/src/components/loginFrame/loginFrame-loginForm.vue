@@ -27,7 +27,7 @@
 
 <script>
 
-  import GlobalInputBlock  from '../components/global-inputBlock.vue';
+  import GlobalInputBlock  from '../globalComponents/global-inputBlock.vue';
 
   export default{
     props: {

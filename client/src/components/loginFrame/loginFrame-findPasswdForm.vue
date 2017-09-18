@@ -38,7 +38,7 @@
 
 <script>
 
-  import GlobalInputBlock  from '../components/global-inputBlock.vue';
+  import GlobalInputBlock  from '../globalComponents/global-inputBlock.vue';
   import LoginFrameSubmitButton from './loginFrame-submitButton.vue';
   import LoginFrameVerifyCodeButton from './loginFrame-findPasswdForm-verifyCodeButton.vue';
 

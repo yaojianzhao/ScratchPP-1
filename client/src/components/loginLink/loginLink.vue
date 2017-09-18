@@ -1,9 +1,9 @@
 <template>
   <div>
-    <img src="../assets/weChat.png"/>
+    <img src="../../assets/weChat.png"/>
     <span>微信登录</span>
     <div style="height:30px;"></div>
-    <img src="../assets/QQ.png"/>
+    <img src="../../assets/QQ.png"/>
     <span>QQ登录</span>
   </div>
 </template>

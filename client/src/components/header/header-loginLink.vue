@@ -4,7 +4,7 @@
     <a href="#">注册</a>
     <span>/</span>
     <a href="#">登录</a>
-    <img class="cUserPortrait" src="../assets/test.jpg"/>
+    <img class="cUserPortrait" src="../../assets/test.jpg"/>
 
   </div>
 </template>

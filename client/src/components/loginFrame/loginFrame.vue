@@ -45,12 +45,12 @@
 
 <script>
 
-  import LoginFrameLoginLabel from '../components/loginFrame-loginLabel.vue';
-  import LoginFrameFindPasswdLabel from '../components/loginFrame-findPasswdLabel.vue';
-  import LoginFrameFindPasswdForm from '../components/loginFrame-findPasswdForm.vue';
-  import LoginFrameLoginForm from '../components/loginFrame-loginForm.vue';
-  import LoginFrameRegisterForm from '../components/loginFrame-registerForm.vue';
-  import LoginFrameSubmitButton from '../components/loginFrame-submitButton.vue';
+  import LoginFrameLoginLabel from './loginFrame-loginLabel.vue';
+  import LoginFrameFindPasswdLabel from './loginFrame-findPasswdLabel.vue';
+  import LoginFrameFindPasswdForm from './loginFrame-findPasswdForm.vue';
+  import LoginFrameLoginForm from './loginFrame-loginForm.vue';
+  import LoginFrameRegisterForm from './loginFrame-registerForm.vue';
+  import LoginFrameSubmitButton from './loginFrame-submitButton.vue';
 
   export default{
 
