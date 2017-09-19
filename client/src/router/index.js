@@ -5,7 +5,9 @@ Vue.use(Router)
 
 import VueRouter from 'vue-router'
 
+import Homepage from '@/components/PAGES/PAGE-homepage'
 import Login from '@/components/PAGES/PAGE-login'
+
 
 Vue.use(VueRouter);
 
@@ -13,8 +15,11 @@ export default new Router({
   routes: [
     {
       path: '/',
-      component: Login
+      component: Homepage
     },
-
+    {
+      path: '/login',
+      component: Login
+    }
   ]
 })
