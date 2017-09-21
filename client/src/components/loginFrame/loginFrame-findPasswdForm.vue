@@ -38,14 +38,14 @@
 
 <script>
 
-  import GlobalInputBlock  from '../components/global-inputBlock.vue';
+  import InputBlock  from './loginFrame-inputBlock.vue';
   import LoginFrameSubmitButton from './loginFrame-submitButton.vue';
   import LoginFrameVerifyCodeButton from './loginFrame-findPasswdForm-verifyCodeButton.vue';
 
   export default{
     props: {},
     components: {
-      'InputBlock': GlobalInputBlock,
+      'InputBlock': InputBlock,
       'SubmitButton':LoginFrameSubmitButton,
       'VerifyCodeButton':LoginFrameVerifyCodeButton
     },

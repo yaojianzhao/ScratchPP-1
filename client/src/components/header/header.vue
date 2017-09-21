@@ -39,10 +39,10 @@
 
 
 
-  import HeaderGuidance  from '../components/header-guidance.vue';
-  import HeaderHeadline  from '../components/header-headline.vue';
-  import HeaderLoginLink  from '../components/header-loginLink.vue';
-  import HeaderMascot  from '../components/header-mascot.vue';
+  import HeaderGuidance  from './header-guidance.vue';
+  import HeaderHeadline  from './header-headline.vue';
+  import HeaderLoginLink  from './header-loginLink.vue';
+  import HeaderMascot  from './header-mascot.vue';
 
   export default{
 

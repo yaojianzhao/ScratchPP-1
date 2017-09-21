@@ -27,14 +27,14 @@
 
 <script>
 
-  import GlobalInputBlock  from '../components/global-inputBlock.vue';
+  import InputBlock  from './loginFrame-inputBlock.vue';
 
   export default{
     props: {
 
     },
     components: {
-      'InputBlock': GlobalInputBlock
+      'InputBlock': InputBlock
     },
     methods:{
       sendStateMsg:function(state){
